@@ -6,8 +6,10 @@
 Atualmente curso Análise e Desevolvimento de Sistemas no IFSP campus Bragança Paulista, mas me formei em técnico de informática em 2021 lá também.
 </p>
 
-<img src="https://user-images.githubusercontent.com/64754404/197410535-9ebfb907-95a0-4d72-a683-ecadd138f1b4.png">
+![undraw_dev_focus_re_6iwt](https://user-images.githubusercontent.com/64754404/200447570-01c780d3-f5c3-42b1-b5de-eeea34346daa.svg)
+  
 </div>
+
 
 <br>
 
